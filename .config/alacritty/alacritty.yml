@@ -1,0 +1,41 @@
+font:
+  normal:
+    family: Cascadia Code
+  size: 11
+colors:
+  primary:
+    background: "0x1a1c19"
+    foreground: "0xF8F8F2"
+  line_indicator:
+    foreground: None
+    background: None
+  selection:
+    text: CellBackground
+    background: CellForeground
+  normal:
+    black: "0x000000"
+    red: "0xe356a7"
+    green: "0x42e66c"
+    yellow: "0xefa554"
+    blue: "0x9b6bdf"
+    magenta: "0xe64747"
+    cyan: "0x75d7ec"
+    white: "0xe5e5e5"
+  bright:
+    black: "0x666666"
+    red: "0xf14c4c"
+    green: "0x23d18b"
+    yellow: "0xf5f543"
+    blue: "0x3b8eea"
+    magenta: "0xd670d6"
+    cyan: "0x29b8db"
+    white: "0xe5e5e5"
+  # dim:
+  #   black: "0x000000"
+  #   red: "0xE356A7"
+  #   green: "0x42E66C"
+  #   yellow: "0xEFA554"
+  #   blue: "0x9B6BDF"
+  #   magenta: "0xE64747"
+  #   cyan: "0xE64747"
+  #   white: "0xe8e8e8"
