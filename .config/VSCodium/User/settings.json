@@ -1,0 +1,87 @@
+{
+	"editor.multiCursorModifier": "ctrlCmd",
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[c]": {
+		"editor.defaultFormatter": "ms-vscode.cpptools"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.fontLigatures": true,
+	"editor.fontFamily": "'Cascadia Code','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+	// "editor.tokenColorCustomizations": {
+	// 	"textMateRules": [
+	// 		{
+	// 			"scope": [
+	// 				"comment",
+	// 				"entity",
+	// 				"constant",
+	// 				"keyword",
+	// 				"invalid",
+	// 				"constant.numeric.css",
+	// 				"keyword.other.unit.px.css",
+	// 				"constant.numeric.decimal.js",
+	// 				"constant.numeric.json",
+	// 				"keyword",
+	// 				"markup",
+	// 				"meta",
+	// 				"storage",
+	// 				"string",
+	// 				"support",
+	// 				"variable",
+	// 				"punctuation",
+	// 				"source",
+	// 				"text",
+	// 				"key",
+	// 				"dict",
+	// 				"name",
+	// 				"repository",
+	// 				"begin",
+	// 				"array",
+	// 				"object",
+	// 				"objectKey"
+	// 			],
+	// 			"settings": {
+	// 				"fontStyle": "italic"
+	// 			}
+	// 		}
+	// 	]
+	// },
+	"prettier.semi": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.formatOnSave": true,
+	"prettier.useTabs": true,
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"[vue]": {
+		"editor.defaultFormatter": "octref.vetur"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"liveServer.settings.donotVerifyTags": true,
+	"liveServer.settings.host": "localhost",
+	"liveServer.settings.useLocalIp": true,
+	"workbench.colorTheme": "930c70c8-474e-4e2d-a223-d1e2b9da4fb1",
+	"redhat.telemetry.enabled": false,
+	"explorer.confirmDelete": false
+}
